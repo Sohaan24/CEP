@@ -4,7 +4,7 @@
   "description": "Backend for Exam Pathfinder - Dynamic features",
   "main": "index.js",
   "scripts": {
-  "build": "npm run build --prefix frontend",
+  "build": "npm run build --prefix exam-pathfinder",
   "start": "node backend/index.js",
   "render-postbuild": "npm install --prefix backend"
 },
